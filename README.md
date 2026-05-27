@@ -15,7 +15,7 @@
 # 🛠️ Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,github,arduino" />
+  <img src="https://skillicons.dev/icons?i=html,css,Python,vscode,github,arduino" />
 </p>
 
 ---
