@@ -4,7 +4,7 @@
 
 💻 Estudiante y programador  
 ⚡ Me gusta la electrónica y el desarrollo web  
-🚀 Aprendiendo HTML, CSS, JavaScript y Arduino
+🚀 Aprendiendo HTML, CSS, Python y Arduino
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 
