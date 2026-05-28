@@ -1,14 +1,25 @@
-<div align="center">
+ <div align="center">
 
 # 👋 Hola, soy Walter
 
 💻 Estudiante y programador  
 ⚡ Me gusta la electrónica y el desarrollo web  
-🚀 Aprendiendo HTML, CSS, Python y Arduino
+🚀 Aprendiendo HTML, CSS, Python y Arduino  
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 
 </div>
+
+---
+
+# 🧠 Sobre mí
+
+✨ Inteligencia: ██████████ 95%  
+📏 Altura: 1.64 m  
+🧩 Entiendo fácil los temas  
+🔎 Siempre investigo más de lo necesario  
+🚫 No soy conformista  
+🤝 Servicial y dispuesto a ayudar  
 
 ---
 
@@ -20,7 +31,7 @@
 
 ---
 
-# 📊 Estadísticas
+# 📊 Estadísticas GitHub
 
 <div align="center">
 
@@ -36,9 +47,20 @@
 
 🔹 Página web de mi promo  
 🔹 Proyectos con Arduino  
-🔹 Diseños en HTML y CSS
+🔹 Diseños en HTML y CSS  
+🔹 Automatización y electrónica  
 
 ---
 
-# 📱Contacto                                                                                                          
-+595  983 399614
+# 🎯 Objetivos
+
+📚 Seguir aprendiendo programación  
+⚙️ Crear proyectos más avanzados  
+🌐 Mejorar en desarrollo web  
+🚀 Convertirme en un gran desarrollador  
+
+---
+
+# 📱 Contacto
+
+📞 +595 983 399614                    
